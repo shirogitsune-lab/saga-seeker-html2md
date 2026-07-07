@@ -1,0 +1,12 @@
+Third Party Notices
+===================
+
+Direct dependencies:
+
+- encoding_rs
+- html-to-markdown-rs
+- kuchiki
+- serde_json
+
+Transitive dependencies are resolved by Cargo during release builds and are
+compiled into the executable.

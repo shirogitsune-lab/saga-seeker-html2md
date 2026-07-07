@@ -1,0 +1,27 @@
+# Rust build output
+/target/
+
+# Built binaries and archives
+*.exe
+*.pdb
+*.zip
+*.7z
+*.tar
+*.tar.gz
+
+# Runtime files
+/log.txt
+/output/*
+!/output/.gitkeep
+/input/*
+!/input/.gitkeep
+
+# Private validation fixtures; keep these out of public history
+/tests/fixtures/private/
+/tests/fixtures/*.zip
+
+# Editor / OS noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
