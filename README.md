@@ -49,7 +49,7 @@ saga-seeker-html2md-v1.2.0-source/
 └─ SHA256SUMS.txt
 ```
 
-Source版には、`target/`、ビルド済みexe、実キャラクターHTML、変換済みMarkdown、`log.txt` は含めません。
+Source版には、`target/`、ビルド済みexe、実キャラクターHTML、変換済みMarkdown、`log.txt` は含まれていません。
 
 ## 開発者向けビルド
 
